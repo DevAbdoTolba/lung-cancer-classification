@@ -1,11 +1,22 @@
-# Facial-Expressions-Classification
+# Emotion Recognition Project
 
-Facial Expressions Classification project using DL CNN
+## Overview
 
-## Structure of the repo
+This project involves building two models for emotion recognition and deploying a Flask web application to analyze customer emotions at cashier points.
 
-Data/ were the trainning and testing images both are located. Also the labels csv
-Code/ is divided for 2 sections.
+## Project Structure
 
-- model/ Is were all the modeling, archtures, trainning, testing, and evaluating.
-- setting/ Is for image manipulation, handling, pre-processing and augmentation.
+- **data/**: Contains raw and processed datasets.
+- **notebooks/**: Jupyter notebooks for data preprocessing and model training.
+- **models/**: Saved model files.
+- **output/**: Evaluation results.
+- **app/**: Flask application.
+- **utils/**: Utility scripts.
+
+## Setup Instructions
+
+1. **Install Dependencies**
+
+```bash
+    pip install -r requirements.txt
+```
