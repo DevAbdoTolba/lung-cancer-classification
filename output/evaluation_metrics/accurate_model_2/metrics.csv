@@ -1,0 +1,6 @@
+Metric,Value
+Validation Accuracy,0.33700326085090637
+Validation Loss,1.5469390153884888
+Weighted F1 Score,0.2785317467960504
+Weighted Precision,0.26809782816217104
+Weighted Recall,0.3370032685360399
