@@ -1,5 +1,5 @@
 Metric,Value
-Validation Accuracy,0.9963333606719971
-Weighted F1 Score,0.9963333104165234
-Weighted Precision,0.9963415752060468
-Weighted Recall,0.9963333333333333
+Validation Accuracy,0.9893333315849304
+Weighted F1 Score,0.989330601967437
+Weighted Precision,0.9896640826873384
+Weighted Recall,0.9893333333333333
